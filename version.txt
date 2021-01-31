@@ -1,1 +1,1 @@
-
+FirmwareVer = {"1.1"};
